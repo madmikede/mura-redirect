@@ -1,0 +1,4 @@
+DO WHAT EVER YOU WANT LICENSE
+ 
+Yes, really, do what ever you want with this plugin. Use it, distribute it, fork it, etc.
+It's no rocket science, it's just a simple redirect plugin.
